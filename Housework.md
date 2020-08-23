@@ -8,12 +8,12 @@
 
 <form action="" method="post">
   <p>
-    <input type="checkbox">掃除機をコンセントにつなげる
+    <input type="checkbox">掃除機をコンセントにつなげる</input>
     <input type="checkbox">部屋を掃除する
     <input type="checkbox">クイックルワイパーを取り付ける
     <input type="checkbox">床を拭く
   </p>
   <p>
-    <input type="submit" value="ホームへ">
+    <input type="button" onClick="history.back()" value="１つ前のページに戻る">
   </p>
 </form>
