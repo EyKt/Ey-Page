@@ -6,9 +6,10 @@
 
 ### 部屋掃除
 
+<!-- 掃除チェックボックス -->
 <form action="" method="post">
   <p>
-    <input type="checkbox"><h2>掃除機をコンセントにつなげる</h2>
+    <input type="checkbox"><b>掃除機をコンセントにつなげる</b>
   </p>
   <p>
     <input type="checkbox">部屋を掃除する
