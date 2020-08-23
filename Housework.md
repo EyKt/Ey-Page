@@ -9,13 +9,15 @@
 <!-- 掃除チェックボックス -->
 <form action="" method="post">
   <p>
-    <input type="checkbox" id="outlet">
-    <label for="outlet">掃除機をコンセントにつなげる</label>
+    <label>
+      <input type="checkbox">
+      <b>掃除機をコンセントにつなげる</b>
+    </label>
   </p>
   <p>
     <label>
       <input type="checkbox">
-      部屋を掃除する
+      <b>部屋を掃除する</b>
     </label>
   </p>
   <p>
@@ -25,7 +27,10 @@
     </label>
   </p>
   <p>
-    <input type="checkbox">床を拭く
+    <label>
+      <input type="checkbox">
+      <b>床を拭く</b>
+    </label>
   </p>
   <p>
     <input type="button" onClick="history.back()" value="ホームへ">
