@@ -14,11 +14,15 @@
   </p>
   <p>
     <label>
-      <input type="checkbox">部屋を掃除する
+      <input type="checkbox">
+      部屋を掃除する
     </label>
   </p>
   <p>
-    <input type="checkbox">クイックルワイパーを取り付ける
+    <label>
+      <input type="checkbox">
+      クイックルワイパーを取り付ける
+    </label>
   </p>
   <p>
     <input type="checkbox">床を拭く
