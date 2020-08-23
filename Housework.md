@@ -9,10 +9,13 @@
 <!-- 掃除チェックボックス -->
 <form action="" method="post">
   <p>
-    <input type="checkbox"><b>掃除機をコンセントにつなげる</b>
+    <input type="checkbox" id="outlet">
+    <label for="outlet">掃除機をコンセントにつなげる</label>
   </p>
   <p>
-    <input type="checkbox">部屋を掃除する
+    <label>
+      <input type="checkbox">部屋を掃除する
+    </label>
   </p>
   <p>
     <input type="checkbox">クイックルワイパーを取り付ける
